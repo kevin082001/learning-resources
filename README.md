@@ -7,6 +7,7 @@
 * <a href="https://codefinity.com/start/java">Codefinity (Basic, Intermediate, Advanced)</a>
 * https://www.learnjavaonline.org/
 * <a href="https://www.w3schools.com/java/">W3Schools (very good site in general)</a>
+* <a href="https://bootcamp.cvn.columbia.edu/blog/java-projects-for-beginners-to-gain-skills/">Project Ideas for Beginners</a>
 
 
 
