@@ -40,6 +40,15 @@
 
 <br>
 
+# Git
+
+<hr/>
+
+* <a href="https://www.w3schools.com/git/git_getstarted.asp?remote=github">W3Schools</a>
+* <a href="https://docs.github.com/en/get-started/getting-started-with-git">Getting started (GitHub)</a>
+
+<br>
+
 # Books / PDFs / Other
 <hr/>
 
