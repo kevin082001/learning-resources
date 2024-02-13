@@ -33,6 +33,13 @@
 
 <br>
 
+# JavaScript
+
+* <a href="https://wiki.selfhtml.org/wiki/JavaScript">Learn JavaScript (German)</a>
+* <a href="https://www.w3schools.com/js/">W3Schools</a>
+
+<br>
+
 # Books / PDFs / Other
 <hr/>
 
