@@ -1,4 +1,6 @@
 # Resources I think are good for a start into programming
+<hr/>
+<br>
 
 # Java
 ### Basics
@@ -8,6 +10,26 @@
 * https://www.learnjavaonline.org/
 * <a href="https://www.w3schools.com/java/">W3Schools (very good site in general)</a>
 * <a href="https://bootcamp.cvn.columbia.edu/blog/java-projects-for-beginners-to-gain-skills/">Project Ideas for Beginners</a>
+
+<br><br>
+# Web Development
+<hr/>
+
+# HTML
+### Basics
+* <a href="https://www.w3schools.com/html/">W3Schools</a>
+
+<br>
+
+# CSS
+### Basics
+
+* <a href="https://www.w3schools.com/css/">W3Schools</a>
+
+
+### Advanced
+
+* <a href="https://flexboxfroggy.com/#de">Flexbox Froggy</a>
 
 
 
