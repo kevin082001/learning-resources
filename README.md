@@ -11,6 +11,11 @@
 * <a href="https://www.w3schools.com/java/">W3Schools (very good site in general)</a>
 * <a href="https://bootcamp.cvn.columbia.edu/blog/java-projects-for-beginners-to-gain-skills/">Project Ideas for Beginners</a>
 
+# C#
+### Exercises
+
+* <a href="https://www.w3resource.com/csharp-exercises/">C# Beginner Exercises</a>
+
 <br><br>
 # Web Development
 <hr/>
