@@ -1,4 +1,4 @@
-# Resources I think are good for a start into programming
+# Resources I think are good for a start into programming (also a bit more advanced topics)
 <hr/>
 <br>
 
